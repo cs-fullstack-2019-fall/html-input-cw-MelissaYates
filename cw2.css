@@ -1,0 +1,18 @@
+aside{
+    float: right;
+    padding: 15px;
+    width: 228px
+
+}
+#move{
+    float: left;
+    padding: 15px;
+
+    width: 228px;
+}
+#first{
+    color: gray;
+}
+#first_para{
+    color: darkgray;
+}
